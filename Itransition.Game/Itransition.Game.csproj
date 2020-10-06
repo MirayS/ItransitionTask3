@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Itransition.Game</RootNamespace>
+        <AssemblyName>Itransition.Game</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Security.Cryptography.Primitives" Version="4.3.0" />
+    </ItemGroup>
+
+</Project>
